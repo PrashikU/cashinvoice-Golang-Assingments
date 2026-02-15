@@ -264,7 +264,7 @@ docker-compose -f docker-compose.yml up --build -d
 - Interview Ready
 
 ---
-Demo Images 
+# 🧿 Demo Images 
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/170f11d8-071c-47fe-a213-3fcbc5452c17" />
 <img width="1920" height="1200" alt="Screenshot from 2026-02-16 01-08-02" src="https://github.com/user-attachments/assets/78fa190e-02cf-4b35-83cd-0358087d6fbf" />

@@ -266,7 +266,7 @@ docker-compose -f docker-compose.yml up --build -d
 ---
 Demo Images 
 
-<img width="1920" height="1200" alt="Screenshot from 2026-02-16 01-07-19" src="https://github.com/user-attachments/assets/1d436b5f-9a25-440d-b6b5-248218e2b353" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/170f11d8-071c-47fe-a213-3fcbc5452c17" />
 <img width="1920" height="1200" alt="Screenshot from 2026-02-16 01-08-02" src="https://github.com/user-attachments/assets/78fa190e-02cf-4b35-83cd-0358087d6fbf" />
 <img width="1920" height="1200" alt="Screenshot from 2026-02-16 01-08-19" src="https://github.com/user-attachments/assets/33b72f4b-df3e-4169-bc2d-e6ea8aa6ac40" />
 <img width="1920" height="1200" alt="Screenshot from 2026-02-16 01-10-17" src="https://github.com/user-attachments/assets/d449a352-5777-4b77-99ba-8d6947a93209" />
